@@ -1,4 +1,4 @@
-# sobers 
+# fin-converter
 
 Converter utility
 
